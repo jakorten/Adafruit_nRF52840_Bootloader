@@ -53,7 +53,7 @@ variation on the following command:
 $ export PATH=$PATH:/Users/Kevin/Downloads/nRF5x-Command-Line-Tools_9_7_2_OSX/nrfjprog
 ```
 
-## Option 2: Build using Segger Embeded Studio
+## Option 2: Build using Segger Embedded Studio
 
 For better debugging you can also use [SES](https://www.segger.com/products/development-tools/embedded-studio/).
 The project file is located at `src/segger/nrf52840_bootloader.emProject`.
